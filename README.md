@@ -16,7 +16,7 @@ This Python script scrapes documentation from [PancakeSwap](https://docs.pancake
 
 ## 🚀 How to Use
 
-1. Clone the repository:
+1.Clone the repository:
    ```bash
    git clone https://github.com/CableKungZ/gitbook-doc-scraper.git
    cd pancakeswap-doc-scraper
